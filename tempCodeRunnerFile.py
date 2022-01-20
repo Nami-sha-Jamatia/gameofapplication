@@ -1,0 +1,1 @@
+mg=cv2.imread(photo)
